@@ -15,3 +15,4 @@ A simple Python game where you bet on a turtle color and watch the turtles race.
 
 # Output
 
+![Random Walk Output](turtle race.png)
