@@ -13,6 +13,6 @@ A simple Python game where you bet on a turtle color and watch the turtles race.
 - Tkinter message boxes
 - Code comments and project documentation
 
-# Output
+  **Output** 
 
-![Random Walk Output](turtle race.png)
+  ![Turtle race Output](turtle race.png)
